@@ -1,0 +1,27 @@
+﻿SAFEGATE HACKATHON PUBLIC REVIEW CANONICAL BUNDLE
+CREATED=2026-09-30 15:51:43 +03:00
+STATUS=LOCAL_REVIEW_ONLY
+PUBLICATION=NOT_PERFORMED
+
+[ETHONLINE_HEDERA_X402]
+BRANCH=ethonline-2026-hedera-x402
+COMMIT=b029028116439c58bfde43becb4889c2be4d2c43
+
+[ETHONLINE_THEGRAPH_CONTINUITY]
+BRANCH=ethonline-2026-thegraph-continuity
+COMMIT=e141aa2d889dcd64425ea4a9c2d78f79d323f79a
+CONTAINS_HEDERA_COMMIT=True
+
+[COLOSSEUM]
+BRANCH=feature/colosseum-2026-base-agent-commerce
+COMMIT=1e693a39a6a95421b3238768ec3706a5c97280e3
+
+BOUNDARY:
+- Extracted directly from immutable Git commit objects
+- No checkout performed
+- No source working tree modified
+- No GitHub push
+- No hackathon submission modified
+- No deploy
+- No database mutation
+- No payment

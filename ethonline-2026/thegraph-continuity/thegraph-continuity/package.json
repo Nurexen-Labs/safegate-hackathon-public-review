@@ -1,0 +1,15 @@
+{
+  "name": "safegate-thegraph-continuity",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "run:agent0": "node run-agent0-sdk.mjs"
+  },
+  "dependencies": {
+    "agent0-sdk": "1.7.0"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
